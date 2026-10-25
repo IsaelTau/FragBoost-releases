@@ -1,7 +1,7 @@
 {
-  "Version": "2.3.0",
+  "Version": "2.4.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "DA9D3EF46F884E1B6A6711BB8AE3CDEF708CB6D002F9CDF1A4BF9BE10B05D56E",
-  "Notes": "Agora para jogos competitivos: Valorant, Fortnite e LoL, assistente de primeiros passos, cartão de resultado para compartilhar, Guardião das otimizações e app em inglês e espanhol.",
-  "Sig": "VxQMBekcqnikvIEVfF0R7zJn9GyPeeuVOW_TnOmSXK4FSx4pPk1NFaXwowxcG-YJ3ItsTD38bWZRsZN1Tna3LQ"
+  "Sha256": "138FDA0F8D6571DE403250B0E1004F04FE8740FADEAC14DC3E75B5D31DEFAF2F",
+  "Notes": "Otimizações de memória RAM: limpeza automática da memória em espera no Modo Partida, guia para ativar o XMP/EXPO na BIOS e novos avisos no Diagnóstico.",
+  "Sig": "XzTQ3RYbLBHaL0w0cg-MD2h_eNTVmBaEkzBdlOXukOypUkios9E1dmkWKxwiC-iGjqQTv2GtYf3ya-uuC90qGA"
 }
