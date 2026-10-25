@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.3",
+  "Version": "2.3.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "B4122E40C2A32EABEF118AD91717E9D660441E04B29B492EBF2A14271F70D16C",
-  "Notes": "Termos de Uso atualizados.",
-  "Sig": "np8IJYGJoOeGMAHB7GW_L33hkRl5hL5JGBVZMWzi0hXnhF0aBDx-7aDkX0NPyM6Rcy0tXqvcUm3qfUfSjRXLUQ"
+  "Sha256": "DA9D3EF46F884E1B6A6711BB8AE3CDEF708CB6D002F9CDF1A4BF9BE10B05D56E",
+  "Notes": "Agora para jogos competitivos: Valorant, Fortnite e LoL, assistente de primeiros passos, cartão de resultado para compartilhar, Guardião das otimizações e app em inglês e espanhol.",
+  "Sig": "VxQMBekcqnikvIEVfF0R7zJn9GyPeeuVOW_TnOmSXK4FSx4pPk1NFaXwowxcG-YJ3ItsTD38bWZRsZN1Tna3LQ"
 }
