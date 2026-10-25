@@ -1,7 +1,7 @@
 {
-  "Version": "2.4.1",
+  "Version": "2.4.2",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "E64D2E004E2E406FF2D567AA547BEA59BA2A94BB4D0A907EE555D7C7CBC41782",
-  "Notes": "Novo e-mail de suporte: suporte@fragboost.com.br.",
-  "Sig": "omSvCFb26KAsdoOdvAhJI19pA1jaIon0JZ4VmcbWi2UBwd7a0Am1sdj9viAxml5Cnqv3y9GienM_xGRBC2QtJA"
+  "Sha256": "C3701F43E6D33A51B3749833CAC49D6D3B00D1C3142B18428ADCACB164443A76",
+  "Notes": "Relatórios de erro anônimos agora vêm ligados (dá para desligar em Ferramentas). Termos e Política de Privacidade atualizados.",
+  "Sig": "SUUPwoDdnqgs9KkjDs0Xl92N1oNm0irtqyiPa7UDAKRUBt2Hy0YgjirVqqAeOr8pvDDHXzO6ybGKD3vKeBQPaQ"
 }
