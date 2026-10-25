@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.1",
+  "Version": "2.2.2",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "99CF269B548C6908AE702228F9AA937A0CBE37211D132194973AC425A565D8B4",
-  "Notes": "Bot\u00E3o Comprar licen\u00E7a ligado \u00E0 loja.",
-  "Sig": "0qn9A7buTIFJzDdXdQqTC731d2FCdHMi_VPZWEGIppSTUE0rntDQ5A3YoA82i2iaCJhDEnIQo8JhTWRvzayOgg"
+  "Sha256": "034B0CFEC9EEB674A770A08CD7D0F06AB651EF83590DB68FA8DA4899160F4300",
+  "Notes": "Termos de Uso e Pol\u00EDtica de Privacidade atualizados.",
+  "Sig": "c5yYhUwjQTMQcVSFwy6PZq6CNsmkf2TtlUX2M6kQFbzMbaW8DbKreH5yof87VWwyNPkbl8fdofHrpN2TSsfuBQ"
 }
