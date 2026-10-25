@@ -1,7 +1,7 @@
 {
-  "Version": "2.4.2",
+  "Version": "2.4.3",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "C3701F43E6D33A51B3749833CAC49D6D3B00D1C3142B18428ADCACB164443A76",
-  "Notes": "Relatórios de erro anônimos agora vêm ligados (dá para desligar em Ferramentas). Termos e Política de Privacidade atualizados.",
-  "Sig": "SUUPwoDdnqgs9KkjDs0Xl92N1oNm0irtqyiPa7UDAKRUBt2Hy0YgjirVqqAeOr8pvDDHXzO6ybGKD3vKeBQPaQ"
+  "Sha256": "4F0AEDCAEEF2AD8DE58BF72FEA1E8AD4422D396C3BB9D0921935DAF800CD24A7",
+  "Notes": "Correções de estabilidade: app abre uma vez só, atualização em pastas com acento, janela em telas pequenas, Modo Partida não fecha o Riot Client/Epic do jogo aberto e proteção para PCs com BitLocker.",
+  "Sig": "HO_u_SpH10UQchUlChUcAjowEH5KO7W4lRjwgSZrDDjKbEPvjtvm4PDm01Mv0hkrRhw9aqPgtW6kX6mAT6XVbQ"
 }
