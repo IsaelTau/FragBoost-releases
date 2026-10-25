@@ -1,7 +1,7 @@
 {
-  "Version": "2.4.0",
+  "Version": "2.4.1",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "138FDA0F8D6571DE403250B0E1004F04FE8740FADEAC14DC3E75B5D31DEFAF2F",
-  "Notes": "Otimizações de memória RAM: limpeza automática da memória em espera no Modo Partida, guia para ativar o XMP/EXPO na BIOS e novos avisos no Diagnóstico.",
-  "Sig": "XzTQ3RYbLBHaL0w0cg-MD2h_eNTVmBaEkzBdlOXukOypUkios9E1dmkWKxwiC-iGjqQTv2GtYf3ya-uuC90qGA"
+  "Sha256": "E64D2E004E2E406FF2D567AA547BEA59BA2A94BB4D0A907EE555D7C7CBC41782",
+  "Notes": "Novo e-mail de suporte: suporte@fragboost.com.br.",
+  "Sig": "omSvCFb26KAsdoOdvAhJI19pA1jaIon0JZ4VmcbWi2UBwd7a0Am1sdj9viAxml5Cnqv3y9GienM_xGRBC2QtJA"
 }
