@@ -4,7 +4,7 @@ Este repositório público guarda as versões do **FragBoost** e o arquivo que o
 
 ## Baixar
 
-**Versão atual:** [FragBoost-2.1.3.exe](https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost-2.1.3.exe)
+**Versão atual (sempre a mais nova):** [FragBoost.exe](https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe)
 
 Requer Windows 10 ou 11 (64 bits).
 
@@ -21,13 +21,13 @@ Requer Windows 10 ou 11 (64 bits).
 ## Como publicar uma versão nova
 
 1. Gere o novo `FragBoost.exe`, com o número de versão maior em `FragBoost.csproj`.
-2. Copie o arquivo para este repositório como `FragBoost-X.Y.Z.exe`.
+2. Substitua o `FragBoost.exe` deste repositório pelo novo. O nome é sempre o mesmo, para os links de download não quebrarem.
 3. Abra o **FragBoost-Keygen.exe**, escolha a opção **3) Preparar atualização** e informe:
    - o caminho do `.exe`;
    - a versão;
-   - o link `https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost-X.Y.Z.exe`;
+   - o link `https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe`;
    - as novidades.
 4. Substitua o `latest.json` por esse novo arquivo gerado.
-5. Apague o `.exe` da versão anterior, para o repositório não crescer à toa, e faça o commit.
+5. Faça o commit dos dois arquivos juntos.
 
 O código-fonte fica no repositório privado `IsaelTau/FragBoost`.

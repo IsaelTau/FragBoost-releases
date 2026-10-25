@@ -1,7 +1,7 @@
 {
-  "Version": "2.1.3",
-  "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost-2.1.3.exe",
-  "Sha256": "D181CEE3DD70DBFA639F40FEAF32F43314CE12CAD12008123C39A41EE1A53AEA",
-  "Notes": "Corrige o app que n\u00E3o abria, textos leg\u00EDveis e melhorias de seguran\u00E7a.",
-  "Sig": "wfZIG0vPX-xMvN6OqpHspeRC9FRgaBKNQKvrXEQ60-SPsyMSdvhYDqoaQw0cBL0TdvI1pUVqoiPF2zQ1iH_elA"
+  "Version": "2.2.0",
+  "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
+  "Sha256": "97A49A82F01D2C6B7448AF026BE35C78FBA0A9B8DF3CD30581186BA4E9B7B20C",
+  "Notes": "Venda autom\u00E1tica: reembolso cancela a licen\u00E7a e novo link Esqueci minha chave.",
+  "Sig": "KoI-GuK6qoma4vo6qBoE7oEi8mOZAvHaoaueGCtTehUiw410kfsVVCtK-WeIHl6zQ6UbBzCIS3Oxznm34jrhZA"
 }
