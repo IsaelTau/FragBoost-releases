@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.2",
+  "Version": "2.2.3",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "034B0CFEC9EEB674A770A08CD7D0F06AB651EF83590DB68FA8DA4899160F4300",
-  "Notes": "Termos de Uso e Pol\u00EDtica de Privacidade atualizados.",
-  "Sig": "c5yYhUwjQTMQcVSFwy6PZq6CNsmkf2TtlUX2M6kQFbzMbaW8DbKreH5yof87VWwyNPkbl8fdofHrpN2TSsfuBQ"
+  "Sha256": "B4122E40C2A32EABEF118AD91717E9D660441E04B29B492EBF2A14271F70D16C",
+  "Notes": "Termos de Uso atualizados.",
+  "Sig": "np8IJYGJoOeGMAHB7GW_L33hkRl5hL5JGBVZMWzi0hXnhF0aBDx-7aDkX0NPyM6Rcy0tXqvcUm3qfUfSjRXLUQ"
 }
