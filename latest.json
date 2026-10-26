@@ -1,7 +1,7 @@
 {
-  "Version": "2.5.3",
+  "Version": "2.5.4",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "7B50C47BF7ED5D86B0CC2AA996B436F0E1C952C4D927FD432A373B7325BB103E",
-  "Notes": "Aba Jogos com visual novo: faixa colorida e ícone de cada jogo.",
-  "Sig": "Vuz8avgKQ14z61S0eKW6a8zKYf8SpeS4_OXNeJ1M7-9Z1betxX2Mkp8xmAtpoBW8EUQbwSP4Tj2JRxmUKU0s8Q"
+  "Sha256": "840C3B31DB245FC590AC4C4095FEA039C819561494297CF1B35F5C9D0CA8A72F",
+  "Notes": "Correção: otimizações com chaves bloqueadas pelo Windows não geram mais erro no Guardião.",
+  "Sig": "BOTchLnWfThwsuFcRO73bSUm-AWpnBOtpoe50Mi5dHPISdnoC5riPoh4ZvtknhykCcgxlHa3yuI_p0kxEuUeWw"
 }
