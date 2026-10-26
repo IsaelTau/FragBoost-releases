@@ -1,7 +1,7 @@
 {
-  "Version": "2.5.2",
+  "Version": "2.5.3",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "7D826F3B369145B3209EB4E8A58FC2E681E1AB0AC27DB7894095234337A2F4AE",
-  "Notes": "Aba Jogos com ícones para cada jogo.",
-  "Sig": "rTSKpq0YKAe6zSdRZ0nZxv4uBuCdkPgWWT5L0drW1iGveyvvWZc_HYSw9X4E72uEr7GeP0cLR8YKT1HpKp8ujg"
+  "Sha256": "7B50C47BF7ED5D86B0CC2AA996B436F0E1C952C4D927FD432A373B7325BB103E",
+  "Notes": "Aba Jogos com visual novo: faixa colorida e ícone de cada jogo.",
+  "Sig": "Vuz8avgKQ14z61S0eKW6a8zKYf8SpeS4_OXNeJ1M7-9Z1betxX2Mkp8xmAtpoBW8EUQbwSP4Tj2JRxmUKU0s8Q"
 }
