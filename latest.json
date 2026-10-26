@@ -1,7 +1,7 @@
 {
-  "Version": "2.7.0",
+  "Version": "2.8.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "257D07812063BB58835D0D268AEBDED5CDFC4F47FC6092D968A1F51125112288",
-  "Notes": "Novidades: instalador com desinstalação que reverte tudo, aba Ajuda, detector de travadas no Benchmark, antes e depois guiado e Modo Partida por jogo.",
-  "Sig": "nv8Fce_upodrEYbSWvATtyOaWEc7PKPMzMHVL7Bt7jz9UvXQpkdEdBOld5GZDIGoC7t2l0wB57IDAwLRd12YUg"
+  "Sha256": "EC95D2E5015B4840A81A0E06ACE71DF0A7A015D8C9495E04C9C10100E5997013",
+  "Notes": "Novos ajustes: exclusões do Defender para pastas dos jogos, otimizações para jogos em janela (Win 11), PCI Express e USB sem economia, navegadores sem segundo plano e hibernação. Fortnite: gráficos para FPS. Minecraft: vídeo para FPS. Valorant: guia de configurações.",
+  "Sig": "ChhV1v9lfdYR5mv-L6Z8_caO2zChbWFvlim03-C2-bInM_3HA_rpIK92QWy67Wx12D6LzEgHKE3RI6YmWM1-1A"
 }
