@@ -1,7 +1,7 @@
 {
-  "Version": "2.6.0",
+  "Version": "2.7.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "102341865EB455FE5A327280874A3C7DD4B3D50BF929A5979AC46D8EE7307058",
-  "Notes": "Ferramentas por jogo: mais RAM para o Minecraft e gráficos para FPS no GTA V. O CS2 agora fica dentro da aba Jogos.",
-  "Sig": "2olLHrKo-WqwU4hIYI747t98qtligMhiBz-oJPzRdnhS6NsVEm4VfYYhgmA0GUaXx2ICOSdhEPOYrjRvYXl0iA"
+  "Sha256": "257D07812063BB58835D0D268AEBDED5CDFC4F47FC6092D968A1F51125112288",
+  "Notes": "Novidades: instalador com desinstalação que reverte tudo, aba Ajuda, detector de travadas no Benchmark, antes e depois guiado e Modo Partida por jogo.",
+  "Sig": "nv8Fce_upodrEYbSWvATtyOaWEc7PKPMzMHVL7Bt7jz9UvXQpkdEdBOld5GZDIGoC7t2l0wB57IDAwLRd12YUg"
 }
