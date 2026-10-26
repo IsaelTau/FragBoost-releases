@@ -1,7 +1,7 @@
 {
-  "Version": "3.0.2",
+  "Version": "3.0.3",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "D84838CE0ECD50DDE8CA4FFB748DD002833C30741E8BD845AE016BBD3F099CE9",
-  "Notes": "Melhor suporte a AMD: temperatura e clock de placas Radeon e Intel no benchmark, proteção do Core Parking nos Ryzen X3D de dois chiplets e ajustes recomendados do AMD Software no Diagnóstico.",
-  "Sig": "Qd6lHqlduKhtQO9DVeoJ2OBtaMBXuSbkEYCBC9MXw0IHp70dTp-smAC5t8-FBOQdUdDNKPMPGyWkhuaDeH0Ufw"
+  "Sha256": "0A80626FD4E927BD307B63B3860393F96A5A54CD0F3B4093451EBB78DE8EF237",
+  "Notes": "FAQ ampliado na aba Ajuda: 28 perguntas sobre compra, compatibilidade (AMD, Intel, notebook) e uso do app, que também alimentam as respostas automáticas do chat.",
+  "Sig": "XCkFgt2Xlyq-7ZxE32uuvy7xApSssCcguFuSSZiUK-DCleFwgMNm0JsIZEKOdmSWrqyrS8Z7QBzap3pQV6WB4Q"
 }
