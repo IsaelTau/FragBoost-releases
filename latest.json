@@ -1,7 +1,7 @@
 {
-  "Version": "2.5.4",
+  "Version": "2.6.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "840C3B31DB245FC590AC4C4095FEA039C819561494297CF1B35F5C9D0CA8A72F",
-  "Notes": "Correção: otimizações com chaves bloqueadas pelo Windows não geram mais erro no Guardião.",
-  "Sig": "BOTchLnWfThwsuFcRO73bSUm-AWpnBOtpoe50Mi5dHPISdnoC5riPoh4ZvtknhykCcgxlHa3yuI_p0kxEuUeWw"
+  "Sha256": "102341865EB455FE5A327280874A3C7DD4B3D50BF929A5979AC46D8EE7307058",
+  "Notes": "Ferramentas por jogo: mais RAM para o Minecraft e gráficos para FPS no GTA V. O CS2 agora fica dentro da aba Jogos.",
+  "Sig": "2olLHrKo-WqwU4hIYI747t98qtligMhiBz-oJPzRdnhS6NsVEm4VfYYhgmA0GUaXx2ICOSdhEPOYrjRvYXl0iA"
 }
