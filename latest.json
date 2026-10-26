@@ -1,7 +1,7 @@
 {
-  "Version": "2.9.0",
+  "Version": "3.0.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "4725C99605EA305B326C2A7EA3AFB9B958489B1CA0611A4E4F28BF59A420BF3B",
-  "Notes": "Novo: chat de dúvidas na aba Ajuda. Pergunte com suas palavras e receba a resposta na hora, ou mande a dúvida direto para uma pessoa.",
-  "Sig": "Es984ykXQ1FGogYOfWaWpw2dVJ5P9vq7xSafkPY8LAMsPLpzauoJ6--W0sAVarpyM1WQjIMlUYysIys-vTeJkg"
+  "Sha256": "43B6AB709750BC63983ECB98F9D4991B62D68DCD3B819B1F35DC6AA825B36525",
+  "Notes": "Versão 3.0: Otimização comprovada (mantém só o que ganhou FPS no seu PC), o que limita o seu FPS (processador ou placa), calor e velocidade no benchmark, rede sob carga, mouse e sensibilidade, estilo dos profissionais no CS2, FPS na tela e comparativo anônimo opcional.",
+  "Sig": "brn0Vv42Dux4kFyqB5umq0V_eK03XK1fZVfm4hb53TYzuQX680zbbE8SDdaEQrtKCTuKyi2rBbxvvodaJijWhQ"
 }
