@@ -1,7 +1,7 @@
 {
-  "Version": "2.4.3",
+  "Version": "2.4.4",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "4F0AEDCAEEF2AD8DE58BF72FEA1E8AD4422D396C3BB9D0921935DAF800CD24A7",
-  "Notes": "Correções de estabilidade: app abre uma vez só, atualização em pastas com acento, janela em telas pequenas, Modo Partida não fecha o Riot Client/Epic do jogo aberto e proteção para PCs com BitLocker.",
-  "Sig": "HO_u_SpH10UQchUlChUcAjowEH5KO7W4lRjwgSZrDDjKbEPvjtvm4PDm01Mv0hkrRhw9aqPgtW6kX6mAT6XVbQ"
+  "Sha256": "8DF3D8174D0095732F5729474F93FDD94609DB7F8310758876AB8B5D56C0694C",
+  "Notes": "Diagnóstico volta a mostrar memória RAM e disco do jogo; Painel mostra quais níveis já estão aplicados.",
+  "Sig": "JboO7E4bIvqa0-Rubtvyhkz-48YBbt3vKEFe57UVVMVL9Bs3nmRoBEZCXjTGmEa6XUbaW-24WolI3s5d-VzNxg"
 }
