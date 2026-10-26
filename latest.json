@@ -1,7 +1,7 @@
 {
-  "Version": "3.0.1",
+  "Version": "3.0.2",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "740D9913142238898E856865A37E4EF92FCD6E69E153F83D64BC7DDBF4BA0EF7",
-  "Notes": "Ajustes: o Diagnóstico e o Benchmark da versão grátis mostram o que o PRO resolve, e a janela de ativação destaca o pagamento único e a garantia de 7 dias.",
-  "Sig": "46axqkTXWp_U34-C0QFFvq_4XvUR_4p2wDOwDSLZPl5G0qXgmUDeEY91dvPob8OqxxuYbJRclRiojYnhX97sow"
+  "Sha256": "D84838CE0ECD50DDE8CA4FFB748DD002833C30741E8BD845AE016BBD3F099CE9",
+  "Notes": "Melhor suporte a AMD: temperatura e clock de placas Radeon e Intel no benchmark, proteção do Core Parking nos Ryzen X3D de dois chiplets e ajustes recomendados do AMD Software no Diagnóstico.",
+  "Sig": "Qd6lHqlduKhtQO9DVeoJ2OBtaMBXuSbkEYCBC9MXw0IHp70dTp-smAC5t8-FBOQdUdDNKPMPGyWkhuaDeH0Ufw"
 }
