@@ -1,7 +1,7 @@
 {
-  "Version": "2.8.0",
+  "Version": "2.9.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "EC95D2E5015B4840A81A0E06ACE71DF0A7A015D8C9495E04C9C10100E5997013",
-  "Notes": "Novos ajustes: exclusões do Defender para pastas dos jogos, otimizações para jogos em janela (Win 11), PCI Express e USB sem economia, navegadores sem segundo plano e hibernação. Fortnite: gráficos para FPS. Minecraft: vídeo para FPS. Valorant: guia de configurações.",
-  "Sig": "ChhV1v9lfdYR5mv-L6Z8_caO2zChbWFvlim03-C2-bInM_3HA_rpIK92QWy67Wx12D6LzEgHKE3RI6YmWM1-1A"
+  "Sha256": "4725C99605EA305B326C2A7EA3AFB9B958489B1CA0611A4E4F28BF59A420BF3B",
+  "Notes": "Novo: chat de dúvidas na aba Ajuda. Pergunte com suas palavras e receba a resposta na hora, ou mande a dúvida direto para uma pessoa.",
+  "Sig": "Es984ykXQ1FGogYOfWaWpw2dVJ5P9vq7xSafkPY8LAMsPLpzauoJ6--W0sAVarpyM1WQjIMlUYysIys-vTeJkg"
 }
