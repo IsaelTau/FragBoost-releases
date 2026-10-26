@@ -1,7 +1,7 @@
 {
-  "Version": "2.5.1",
+  "Version": "2.5.2",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "16DE9E63741DF3619601565F474B61653883166D42BA5D4FBE24190ABEC4A0A2",
-  "Notes": "Nova aba Jogos: veja os jogos suportados, quais estão instalados e otimize cada um com 1 clique.",
-  "Sig": "8VGlEeawExfEcQozpcQtISWUmGSV5l2bwU0UZT_-qDMjboVNNWK9ju2N3O5m__NEmJwmCs9I8tY9JcComUdGUw"
+  "Sha256": "7D826F3B369145B3209EB4E8A58FC2E681E1AB0AC27DB7894095234337A2F4AE",
+  "Notes": "Aba Jogos com ícones para cada jogo.",
+  "Sig": "rTSKpq0YKAe6zSdRZ0nZxv4uBuCdkPgWWT5L0drW1iGveyvvWZc_HYSw9X4E72uEr7GeP0cLR8YKT1HpKp8ujg"
 }
