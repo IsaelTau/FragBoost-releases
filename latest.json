@@ -1,7 +1,7 @@
 {
-  "Version": "2.4.4",
+  "Version": "2.5.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "8DF3D8174D0095732F5729474F93FDD94609DB7F8310758876AB8B5D56C0694C",
-  "Notes": "Diagnóstico volta a mostrar memória RAM e disco do jogo; Painel mostra quais níveis já estão aplicados.",
-  "Sig": "JboO7E4bIvqa0-Rubtvyhkz-48YBbt3vKEFe57UVVMVL9Bs3nmRoBEZCXjTGmEa6XUbaW-24WolI3s5d-VzNxg"
+  "Sha256": "1F8DB0F1F94B0DC4DE07919ED1AF98FA09AD360496E636F1EE61F64FDB18FBB6",
+  "Notes": "Novos jogos: Rust, GTA V (normal e Enhanced) e Minecraft (Java e Bedrock), com placa de vídeo dedicada, Modo Partida e Benchmark.",
+  "Sig": "EGAMbCxoCZ5OQiGdQNbsxVzB9GJCz8XNsnGAicneN8xVcNFZeRr06ITk-NQDHruoDotyufmF8LF7-87R9S5gtw"
 }
