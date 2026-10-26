@@ -31,3 +31,7 @@ Requer Windows 10 ou 11 (64 bits).
 5. Faça o commit dos dois arquivos juntos.
 
 O código-fonte fica no repositório privado `IsaelTau/FragBoost`.
+
+## Kit de divulgação
+
+A pasta [`kit/`](kit) guarda os vídeos e imagens usados pelos afiliados (https://fragboost.com.br/afiliados).
