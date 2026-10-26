@@ -1,7 +1,7 @@
 {
-  "Version": "2.5.0",
+  "Version": "2.5.1",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "1F8DB0F1F94B0DC4DE07919ED1AF98FA09AD360496E636F1EE61F64FDB18FBB6",
-  "Notes": "Novos jogos: Rust, GTA V (normal e Enhanced) e Minecraft (Java e Bedrock), com placa de vídeo dedicada, Modo Partida e Benchmark.",
-  "Sig": "EGAMbCxoCZ5OQiGdQNbsxVzB9GJCz8XNsnGAicneN8xVcNFZeRr06ITk-NQDHruoDotyufmF8LF7-87R9S5gtw"
+  "Sha256": "16DE9E63741DF3619601565F474B61653883166D42BA5D4FBE24190ABEC4A0A2",
+  "Notes": "Nova aba Jogos: veja os jogos suportados, quais estão instalados e otimize cada um com 1 clique.",
+  "Sig": "8VGlEeawExfEcQozpcQtISWUmGSV5l2bwU0UZT_-qDMjboVNNWK9ju2N3O5m__NEmJwmCs9I8tY9JcComUdGUw"
 }
