@@ -1,7 +1,7 @@
 {
-  "Version": "3.2.0",
+  "Version": "3.2.1",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "5C239F0AC640DA8E15423026F8C24706DF59AA471E2603A6FC3250073CC2A69A",
-  "Notes": "Tela de boas-vindas no primeiro uso e nível Seguro como padrão | Resultado do benchmark honesto: ganho pequeno aparece como variação normal | Nota de compatibilidade com anti-cheat em cada otimização | Tela O que mudou em Ferramentas e seção de transparência na Ajuda | Nível Extremo mostra a lista exata do que será alterado | Limpeza de memória do Modo Partida não insiste quando não libera nada | Atualizador só aceita endereço HTTPS",
-  "Sig": "ljtGtW0HYrTvgVtNnM1tttvMsRNRwHA0PY_mpVG8jxgPGzo8SGp7e3LuxqoW0xOMlA-TrjngVypSXpiOiDsLyQ"
+  "Sha256": "5D79A18A48D69717EC066A0E3E9F7B92A3A2397397A6B57D02967EA2EF45C8B6",
+  "Notes": "Painel com os botões Desfazer tudo e Ver backup | Contagem anônima de instalações e usos (desligue em Ferramentas) | Página de passo a passo no site e na Ajuda | Servidor com e-mail de acompanhamento para quem aceitou contato",
+  "Sig": "8j9e9Glh6KPw3GcZh-Ty0Mc_DNzkQK-_LWJgPplLDl4lzV60-8vRex2wz7Z8mLfH6uH4auv4Grb-rnS_O1jwsQ"
 }
