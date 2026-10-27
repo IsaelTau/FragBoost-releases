@@ -1,7 +1,7 @@
 {
-  "Version": "3.1.3",
+  "Version": "3.2.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "9EFD7E3CB3313D9908BBA0BF6732F34E9E758C711C329C59C91D568130E30F7D",
-  "Notes": "FAQ do app explica o bloqueio do Smart App Control",
-  "Sig": "Np9XkItJbd3THgZzwVYrRYW3xaPBhdW7EEyO103XepPWJq2zgdcbix5-c9qjt30c9pJ8JGvSkRz0wGf0TzvQUg"
+  "Sha256": "5C239F0AC640DA8E15423026F8C24706DF59AA471E2603A6FC3250073CC2A69A",
+  "Notes": "Tela de boas-vindas no primeiro uso e nível Seguro como padrão | Resultado do benchmark honesto: ganho pequeno aparece como variação normal | Nota de compatibilidade com anti-cheat em cada otimização | Tela O que mudou em Ferramentas e seção de transparência na Ajuda | Nível Extremo mostra a lista exata do que será alterado | Limpeza de memória do Modo Partida não insiste quando não libera nada | Atualizador só aceita endereço HTTPS",
+  "Sig": "ljtGtW0HYrTvgVtNnM1tttvMsRNRwHA0PY_mpVG8jxgPGzo8SGp7e3LuxqoW0xOMlA-TrjngVypSXpiOiDsLyQ"
 }
