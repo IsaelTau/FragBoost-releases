@@ -1,7 +1,7 @@
 {
-  "Version": "3.0.3",
+  "Version": "3.1.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "0A80626FD4E927BD307B63B3860393F96A5A54CD0F3B4093451EBB78DE8EF237",
-  "Notes": "FAQ ampliado na aba Ajuda: 28 perguntas sobre compra, compatibilidade (AMD, Intel, notebook) e uso do app, que também alimentam as respostas automáticas do chat.",
-  "Sig": "XCkFgt2Xlyq-7ZxE32uuvy7xApSssCcguFuSSZiUK-DCleFwgMNm0JsIZEKOdmSWrqyrS8Z7QBzap3pQV6WB4Q"
+  "Sha256": "9293EE63884C7AB5E33C668EC0C01076FF746E87F28E0483774A9C3662835989",
+  "Notes": "Opiniao do cliente: convite unico no app e botao Dar minha opiniao na Ajuda",
+  "Sig": "82Dva5JU0t2CYqACgh9dxz3LhdVgsF5R8ySlG1ovuuqD00XVlHx0P1Zx4FJOO-dXsC6W2GfnasRcdoOi0J2Zxg"
 }
