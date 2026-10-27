@@ -1,7 +1,7 @@
 {
-  "Version": "3.1.0",
+  "Version": "3.1.1",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "9293EE63884C7AB5E33C668EC0C01076FF746E87F28E0483774A9C3662835989",
-  "Notes": "Opiniao do cliente: convite unico no app e botao Dar minha opiniao na Ajuda",
-  "Sig": "82Dva5JU0t2CYqACgh9dxz3LhdVgsF5R8ySlG1ovuuqD00XVlHx0P1Zx4FJOO-dXsC6W2GfnasRcdoOi0J2Zxg"
+  "Sha256": "8EFBA4403AF46E0BD230BEA69D36E7E06DE4076380959851A9F6545A69FA5BFB",
+  "Notes": "Correcao: a limpeza de memoria do Modo Partida nao trava mais o jogo",
+  "Sig": "g7W155xdPVeFWFizlnM9uccxVsKCLnLhi2czbSiEzNg-PvGkaBMhYc-F6ZbsnZfwdBBFCD7Uzi49tQ2BsXBYVg"
 }
