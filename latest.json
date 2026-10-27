@@ -1,7 +1,7 @@
 {
-  "Version": "3.1.2",
+  "Version": "3.1.3",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "781400E1E086193F136EB9C68DFB673939D232B83D1E2B18D36EF16ADDA945BB",
-  "Notes": "Relatorio da ultima partida, correcoes no Guardiao e na compressao de memoria, e 6 jogos novos",
-  "Sig": "3PoHmccMZ2fWZdfjDkIDqyqo5JQU76i4vIRssmFohiICF_cpscW19Ue58OdZbzv-byDi6k0ZC3aRRdkWOzhB8Q"
+  "Sha256": "9EFD7E3CB3313D9908BBA0BF6732F34E9E758C711C329C59C91D568130E30F7D",
+  "Notes": "FAQ do app explica o bloqueio do Smart App Control",
+  "Sig": "Np9XkItJbd3THgZzwVYrRYW3xaPBhdW7EEyO103XepPWJq2zgdcbix5-c9qjt30c9pJ8JGvSkRz0wGf0TzvQUg"
 }
