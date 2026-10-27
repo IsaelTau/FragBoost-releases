@@ -1,7 +1,7 @@
 {
-  "Version": "3.1.1",
+  "Version": "3.1.2",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "8EFBA4403AF46E0BD230BEA69D36E7E06DE4076380959851A9F6545A69FA5BFB",
-  "Notes": "Correcao: a limpeza de memoria do Modo Partida nao trava mais o jogo",
-  "Sig": "g7W155xdPVeFWFizlnM9uccxVsKCLnLhi2czbSiEzNg-PvGkaBMhYc-F6ZbsnZfwdBBFCD7Uzi49tQ2BsXBYVg"
+  "Sha256": "781400E1E086193F136EB9C68DFB673939D232B83D1E2B18D36EF16ADDA945BB",
+  "Notes": "Relatorio da ultima partida, correcoes no Guardiao e na compressao de memoria, e 6 jogos novos",
+  "Sig": "3PoHmccMZ2fWZdfjDkIDqyqo5JQU76i4vIRssmFohiICF_cpscW19Ue58OdZbzv-byDi6k0ZC3aRRdkWOzhB8Q"
 }
