@@ -1,7 +1,7 @@
 {
-  "Version": "3.3.0",
+  "Version": "3.4.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "FA555DFB24894E11D8A7BD8EF05499D641A193A5160144ECAEBD23EA4BA0E5BB",
-  "Notes": "Menu por seções e novas telas: Monitor ao vivo, Debloat, Perfis, Meus jogos, Apps, Reparo, Pós-formatação e Testes | Overlay no jogo com FPS, 1% low e uso/temperatura de CPU e GPU, configurável e com atalho | Debloat Essencial e Recomendado, reversível, com ponto de restauração | Instalador de apps pelo winget, reparo do Windows (SFC/DISM) e revisão semanal agendada | Teste de velocidade, teste do monitor, botão Limpar RAM e perfis exportáveis | Meus jogos: placa dedicada, prioridade e núcleos (bloqueados em jogos com anti-cheat)",
-  "Sig": "-eSSIvJ2YRZ-zM5KuFp2OKxKRDPPygqVyfCjQKe2ZP9PDaayZ9ZAPZ0o8G0bd9Eg_--MJhPOjNojfID841TMGA"
+  "Sha256": "4F1DE2D41492694A453FF2DF6020BCD3ACAEF4F710F047D443CEBEDFFEB39D2B",
+  "Notes": "Recomendação de nível e configurações gráficas pelo seu hardware | Gráfico de evolução do FPS por jogo e cartão de resultado com 0,1% low e travadas | Gargalo (CPU, GPU, RAM ou disco) e alerta de clock caindo por calor | Nova tela Drivers com links diretos ao site de cada fabricante | Modo Streamer e Modo Notebook | Listas, caixas de marcar e controles deslizantes com visual novo",
+  "Sig": "IGf3fPdxZyNdWiKE84NPpGGn9f28rT-rSJkD-84mYWtn0Kb23KTp57JxrmbC4orgr4Au63v7RjZom4ZLa1Ymcw"
 }
