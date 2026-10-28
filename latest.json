@@ -1,7 +1,7 @@
 {
-  "Version": "3.2.1",
+  "Version": "3.3.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "5D79A18A48D69717EC066A0E3E9F7B92A3A2397397A6B57D02967EA2EF45C8B6",
-  "Notes": "Painel com os botões Desfazer tudo e Ver backup | Contagem anônima de instalações e usos (desligue em Ferramentas) | Página de passo a passo no site e na Ajuda | Servidor com e-mail de acompanhamento para quem aceitou contato",
-  "Sig": "8j9e9Glh6KPw3GcZh-Ty0Mc_DNzkQK-_LWJgPplLDl4lzV60-8vRex2wz7Z8mLfH6uH4auv4Grb-rnS_O1jwsQ"
+  "Sha256": "FA555DFB24894E11D8A7BD8EF05499D641A193A5160144ECAEBD23EA4BA0E5BB",
+  "Notes": "Menu por seções e novas telas: Monitor ao vivo, Debloat, Perfis, Meus jogos, Apps, Reparo, Pós-formatação e Testes | Overlay no jogo com FPS, 1% low e uso/temperatura de CPU e GPU, configurável e com atalho | Debloat Essencial e Recomendado, reversível, com ponto de restauração | Instalador de apps pelo winget, reparo do Windows (SFC/DISM) e revisão semanal agendada | Teste de velocidade, teste do monitor, botão Limpar RAM e perfis exportáveis | Meus jogos: placa dedicada, prioridade e núcleos (bloqueados em jogos com anti-cheat)",
+  "Sig": "-eSSIvJ2YRZ-zM5KuFp2OKxKRDPPygqVyfCjQKe2ZP9PDaayZ9ZAPZ0o8G0bd9Eg_--MJhPOjNojfID841TMGA"
 }
