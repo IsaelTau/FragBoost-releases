@@ -1,7 +1,7 @@
 {
-  "Version": "3.5.0",
+  "Version": "3.5.1",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "87C9AE16F26993B4B3B4F33C7A7F788D16BA7001074EAD4B37002C229FB61609",
-  "Notes": "Menu novo: barra de categorias com lista ao lado, mais limpo e fácil de usar | Animações discretas: troca de telas, menu, botões, linha de luz e contagem do percentual (desligam se o Windows estiver sem efeitos de animação)",
-  "Sig": "muE6pLeQSVWJso48JAMCGvgz3CaOHPidQWolYKzUJM3pgbCs4xjjsM0cY1NsKNtNDuaBHFbS7znwIyXiaSS94w"
+  "Sha256": "13855CF674A6F27B46EBFB9B4243BEA5097B9F0D8C0284D9B15FE5586AE99405",
+  "Notes": "Caixas de mensagem no tema escuro do app | Desinstalar agora desfaz também Debloat, Meus jogos e Streamer | Relatórios de erro vêm desligados por padrão | Erros do Windows em frases curtas e claras | Ajustes mostram a etiqueta PRO no plano grátis | Janela lembra tamanho e posição",
+  "Sig": "IC8QqrW7-PDeiEOu8-99SzjX5DvB7xckNUzad2hnlnJzkCKuHvs6TpmXWby7fjG2Qmo0HuCuPcUOnyWGoCHF8g"
 }
