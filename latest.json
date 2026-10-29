@@ -1,7 +1,7 @@
 {
-  "Version": "3.5.1",
+  "Version": "3.5.2",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "13855CF674A6F27B46EBFB9B4243BEA5097B9F0D8C0284D9B15FE5586AE99405",
-  "Notes": "Caixas de mensagem no tema escuro do app | Desinstalar agora desfaz também Debloat, Meus jogos e Streamer | Relatórios de erro vêm desligados por padrão | Erros do Windows em frases curtas e claras | Ajustes mostram a etiqueta PRO no plano grátis | Janela lembra tamanho e posição",
-  "Sig": "IC8QqrW7-PDeiEOu8-99SzjX5DvB7xckNUzad2hnlnJzkCKuHvs6TpmXWby7fjG2Qmo0HuCuPcUOnyWGoCHF8g"
+  "Sha256": "E5DF3CD5EBC100678B37549FBD8BAD3E43122F8D69A1BD33C190492846DED5BD",
+  "Notes": "Aviso com o passo a passo do Smart App Control na primeira abertura e antes de atualizar | Página de download avisa do bloqueio do Windows antes do botão",
+  "Sig": "Z4Ru4ppfJgFB0PTZrMtVQ7NF1GtL5x_D8-c0ZQZHWA0oopTXTXFjowK4WoQdSGBMdS2FtzLDGvmGL4qVPmR-Iw"
 }
