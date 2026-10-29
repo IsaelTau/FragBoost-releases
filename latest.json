@@ -1,7 +1,7 @@
 {
-  "Version": "3.5.2",
+  "Version": "3.5.3",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "E5DF3CD5EBC100678B37549FBD8BAD3E43122F8D69A1BD33C190492846DED5BD",
-  "Notes": "Aviso com o passo a passo do Smart App Control na primeira abertura e antes de atualizar | Página de download avisa do bloqueio do Windows antes do botão",
-  "Sig": "Z4Ru4ppfJgFB0PTZrMtVQ7NF1GtL5x_D8-c0ZQZHWA0oopTXTXFjowK4WoQdSGBMdS2FtzLDGvmGL4qVPmR-Iw"
+  "Sha256": "AF551153625E6A0C612371B144959A7B6D96D661AFC70B834ADEE30B76597221",
+  "Notes": "Relatório da partida agora diz a causa das travadas e sugere como resolver | Leituras de disco, memória, processador e calor durante o jogo | Botões para fechar programa pesado e ligar ajustes (PRO)",
+  "Sig": "tYS4ij8YPd0DBo8aN2LiZEoYLXy3daT1UJa8yc32DAc52HZfnxND93OS-dJHONJvtincy1MGpi94YWOZ9BLQvw"
 }
