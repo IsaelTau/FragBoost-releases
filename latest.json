@@ -1,7 +1,7 @@
 {
-  "Version": "3.4.2",
+  "Version": "3.5.0",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "22C6780BFEEE45256C879F11FE32A9E44EB2317AA75FE176D7051DC66382E086",
-  "Notes": "Reparo do Windows mostra o percentual geral e uma estimativa do tempo restante | Barra de progresso com o visual do app",
-  "Sig": "sysQYZatQyYYIA50t3FjTQlts5GQEJ8pTII85goSSpltX0DTTHShWEQ2vBZ8fCcLSPkP4CTIDom1ZkAZe_D4CA"
+  "Sha256": "87C9AE16F26993B4B3B4F33C7A7F788D16BA7001074EAD4B37002C229FB61609",
+  "Notes": "Menu novo: barra de categorias com lista ao lado, mais limpo e fácil de usar | Animações discretas: troca de telas, menu, botões, linha de luz e contagem do percentual (desligam se o Windows estiver sem efeitos de animação)",
+  "Sig": "muE6pLeQSVWJso48JAMCGvgz3CaOHPidQWolYKzUJM3pgbCs4xjjsM0cY1NsKNtNDuaBHFbS7znwIyXiaSS94w"
 }
