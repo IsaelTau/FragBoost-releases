@@ -1,7 +1,7 @@
 {
-  "Version": "3.4.1",
+  "Version": "3.4.2",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "4E25CD3EAFA156E125FE86237F86D9A395F75256031537C998CB9F2E1602BB49",
-  "Notes": "Diagnóstico avisa quando o Smart App Control está ligado e abre a tela do Windows para o cliente decidir | Links dos drivers levam direto à página certa de cada fabricante",
-  "Sig": "Cn27gXqswxPQ6ZdPTpTlChWIWbG2lcbLEA1kBn1fcVyMKvpEzBuUABJ0aa7W4ijsCAkgVOCIaaDbXD4tVTdioQ"
+  "Sha256": "22C6780BFEEE45256C879F11FE32A9E44EB2317AA75FE176D7051DC66382E086",
+  "Notes": "Reparo do Windows mostra o percentual geral e uma estimativa do tempo restante | Barra de progresso com o visual do app",
+  "Sig": "sysQYZatQyYYIA50t3FjTQlts5GQEJ8pTII85goSSpltX0DTTHShWEQ2vBZ8fCcLSPkP4CTIDom1ZkAZe_D4CA"
 }
