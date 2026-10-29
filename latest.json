@@ -1,7 +1,7 @@
 {
-  "Version": "3.4.0",
+  "Version": "3.4.1",
   "Url": "https://raw.githubusercontent.com/IsaelTau/FragBoost-releases/main/FragBoost.exe",
-  "Sha256": "4F1DE2D41492694A453FF2DF6020BCD3ACAEF4F710F047D443CEBEDFFEB39D2B",
-  "Notes": "Recomendação de nível e configurações gráficas pelo seu hardware | Gráfico de evolução do FPS por jogo e cartão de resultado com 0,1% low e travadas | Gargalo (CPU, GPU, RAM ou disco) e alerta de clock caindo por calor | Nova tela Drivers com links diretos ao site de cada fabricante | Modo Streamer e Modo Notebook | Listas, caixas de marcar e controles deslizantes com visual novo",
-  "Sig": "IGf3fPdxZyNdWiKE84NPpGGn9f28rT-rSJkD-84mYWtn0Kb23KTp57JxrmbC4orgr4Au63v7RjZom4ZLa1Ymcw"
+  "Sha256": "4E25CD3EAFA156E125FE86237F86D9A395F75256031537C998CB9F2E1602BB49",
+  "Notes": "Diagnóstico avisa quando o Smart App Control está ligado e abre a tela do Windows para o cliente decidir | Links dos drivers levam direto à página certa de cada fabricante",
+  "Sig": "Cn27gXqswxPQ6ZdPTpTlChWIWbG2lcbLEA1kBn1fcVyMKvpEzBuUABJ0aa7W4ijsCAkgVOCIaaDbXD4tVTdioQ"
 }
